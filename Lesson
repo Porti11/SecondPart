@@ -7,9 +7,8 @@ finish
 start
 new age number
 set age 18
-log string "Hello, world. My name is Ildus. Im"
-log number age
-log string "y.o"
+log string "Hello, world. My name is Islamchik. Im " >> age >> " y.o"
+
 finish
 
 3.3
